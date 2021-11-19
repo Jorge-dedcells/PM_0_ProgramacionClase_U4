@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Object Include="..\..\..\..\..\..\Irvine\Lib32\Irvine32_Library\Irvine32.obj" />
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="Source.asm" />
+    <MASM Include="P0_Plantilla.asm" />
+    <MASM Include="P1_introAreglos.asm" />
+    <MASM Include="P2_registros_esi_edi_.asm" />
+    <MASM Include="P4_modificarArreglo.asm" />
+    <MASM Include="P5_recorridoArreglo.asm" />
+    <MASM Include="P6_arreglos_dword.asm" />
+    <MASM Include="P7_accesoPosNdeArreglo.asm" />
+    <MASM Include="P8_introArreglosBidimensionales.asm" />
+    <MASM Include="P9_accesoPosNdeArregloB.asm" />
+    <MASM Include="P10_recorridoArregloB.asm" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="PM_0_ProgramacionClase_U4.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="MACROS.inc" />
+  </ItemGroup>
+</Project>

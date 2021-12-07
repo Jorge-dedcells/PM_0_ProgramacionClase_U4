@@ -25,6 +25,12 @@
     <MASM Include="P18_Ejemplo2REP.asm" />
     <MASM Include="P19_EjemploPrefijosRepeticion.asm" />
     <MASM Include="P20_PlantillaProyectoUnidad.asm" />
+    <MASM Include="ProyectoFinal_JuegoAhorcado.asm" />
+    <MASM Include="PPT5_Prog_Ident_Elem_Mat_Par.asm" />
+    <MASM Include="PPT4_Cal_Elem_Mat_May_Num_Usu.asm" />
+    <MASM Include="PPT3_Cal_Sum_Elem_Mat_Fi_A_Fi.asm" />
+    <MASM Include="PPT2_Cal_Sum_Tod_Elem_Mat.asm" />
+    <MASM Include="PPT1_Imp_sum_arr_dat.asm" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="PM_0_ProgramacionClase_U4.cpp" />

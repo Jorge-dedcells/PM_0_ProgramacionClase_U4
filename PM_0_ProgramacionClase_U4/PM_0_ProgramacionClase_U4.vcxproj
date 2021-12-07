@@ -39,6 +39,12 @@
     <MASM Include="P7_accesoPosNdeArreglo.asm" />
     <MASM Include="P8_introArreglosBidimensionales.asm" />
     <MASM Include="P9_accesoPosNdeArregloB.asm" />
+    <MASM Include="PPT1_Imp_sum_arr_dat.asm" />
+    <MASM Include="PPT2_Cal_Sum_Tod_Elem_Mat.asm" />
+    <MASM Include="PPT3_Cal_Sum_Elem_Mat_Fi_A_Fi.asm" />
+    <MASM Include="PPT4_Cal_Elem_Mat_May_Num_Usu.asm" />
+    <MASM Include="PPT5_Prog_Ident_Elem_Mat_Par.asm" />
+    <MASM Include="ProyectoFinal_JuegoAhorcado.asm" />
     <MASM Include="Source.asm">
       <FileType>Document</FileType>
     </MASM>
